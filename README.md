@@ -4,4 +4,8 @@ Aqui ire almancenando los desafios del curso Data Science en Coder House. Los pr
 
 Para ver ejercicios de practica: https://github.com/chmedinap/DS-Practicas
 
+<<<<<<< Updated upstream
 
+=======
+El link del cusro con el contenido explicado: https://www.coderhouse.cl/online/data-science
+>>>>>>> Stashed changes
